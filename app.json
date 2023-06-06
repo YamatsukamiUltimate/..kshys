@@ -17,7 +17,7 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
-
+    "builpack": [],
     "website": "https://github.com/lafawkes/shadowsocks-obfs",
     "repository": "https://github.com/lafawkes/shadowsocks-obfs",
     "stack": "container"
