@@ -18,7 +18,7 @@
         }
     },
     
-    "buildpacks": "heroku/ruby",
+    "buildpacks": "heroku/python",
     "website": "https://github.com/lafawkes/shadowsocks-obfs",
     "repository": "https://github.com/lafawkes/shadowsocks-obfs",
     "stack": "container"
