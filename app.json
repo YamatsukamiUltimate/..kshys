@@ -18,7 +18,7 @@
         }
     },
     
-    "buildpack": "https://github.com/dockhero/heroku-buildpack-docker-compose.git",
+    "buildpacks": [{"url": "heroku/docker"}],
     "website": "https://github.com/lafawkes/shadowsocks-obfs",
     "repository": "https://github.com/lafawkes/shadowsocks-obfs",
     "stack": "container"
