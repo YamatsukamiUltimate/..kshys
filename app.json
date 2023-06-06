@@ -17,6 +17,8 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
+    
+    "buildpacks": "https://github.com/dockhero/heroku-buildpack-docker-compose.git",
     "website": "https://github.com/lafawkes/shadowsocks-obfs",
     "repository": "https://github.com/lafawkes/shadowsocks-obfs",
     "stack": "container"
